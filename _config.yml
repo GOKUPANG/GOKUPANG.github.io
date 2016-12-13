@@ -1,7 +1,7 @@
 # Basic
 title: 庞斌
 subtitle: 个人站
-description: 欢迎来到我的个人站~
+description: A handsome humor day~
 # 头像里面的标题
 avatarTitle: JackPong
 # 头像里面的描述
@@ -18,7 +18,7 @@ social:
     weibo: 3016678957 
     github: gokupang
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: 837731474@qq.com
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
@@ -57,8 +57,7 @@ blog_button:
 nav:
     - {title: 所有文章, description: archive, url: '/archive'}   
     - {title: 标签, description: tags, url: '/tags'}      
-    - {title: 关于我, description: about, url: '/about'}      
-    
+    - {title: 关于我, description: about, url: '/about'}       
 
 # Pagination
 gems: [jekyll-paginate]
